@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Cranberry Club Sandwich",
+    "price": 50,
+    "image": "assets/images/menu/4.jpg",
+    "description": "The club sandwich is a Classic favorite, known for its layers of deliciousness all sandwiched between three slices of toasted bread.",
+    "rating": 5,
+    "rating_amount": "1.2k"
+  },
+  {
+    "id": 2,
+    "name": "Product 23",
+    "price": 25,
+    "image": "https://via.placeholder.com/150",
+    "description": "Description for Product 23",
+    "rating": 3.8,
+    "rating_amount": "800"
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "price": 35,
+    "image": "https://via.placeholder.com/150",
+    "description": "Description for Product 3",
+    "rating": 4.2,
+    "rating_amount": "500"
+  }
+]
